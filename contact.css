@@ -1,0 +1,35 @@
+        .form {
+            text-align: center;
+            /* margin: 200px 400px; */
+            width: 10cm;
+            /* margin-left: 535px; */
+            background-color: aliceblue;
+            margin-top: 100px;
+        }
+        
+      h2{
+        margin-left: 50px;
+      }
+        
+        
+        .form {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            background-color: rgb(249, 152, 6);
+            padding-top: 10px;
+            margin-top: 0%;
+            border: 5px dotted red;
+        }
+        
+        #footer {
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(153, 60, 31);
+            margin-left: 50px;
+             margin-top: 0%; 
+        }
+        .c1{
+            /* flex-direction: row; */
+            display: flex;
+        }
+        body{
+            background-color:aliceblue;
+        }

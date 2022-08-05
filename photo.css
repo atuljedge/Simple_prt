@@ -1,0 +1,13 @@
+img {
+    border: 4px dotted rgb(126, 244, 22);
+    background-color: rgb(242, 147, 14);
+
+}
+body{
+    padding: 50px;
+    background-color: rgb(128, 198, 104);
+} 
+.c1{
+    flex-direction: row;
+    display: flex;
+}

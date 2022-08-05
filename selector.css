@@ -1,0 +1,36 @@
+        /* *{
+    color: darkslateblue;                universal selector
+} */
+        
+        header {
+            background-color: #f1d3d3;
+        }
+        
+        li a {
+            color: blue;
+        }
+        
+        section {
+            background-color: #f1d9d9;
+        }
+        
+        p {
+            color: rgb(133, 19, 46);
+        }
+        
+        section.my-section>h2 {
+            color: green;
+        }
+        
+        h2+p {
+            color: rgb(240, 108, 20);
+            /*adjencent selector */
+        }
+        
+        header p {
+            color: crimson;
+        }
+        
+        ul+p {
+            color: green;
+        }
