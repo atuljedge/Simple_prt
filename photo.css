@@ -4,10 +4,14 @@ img {
 
 }
 body{
-    padding: 50px;
+   /* padding: 50px; */
     background-color: rgb(128, 198, 104);
 } 
 .c1{
     flex-direction: row;
     display: flex;
+}
+#row{
+    flex-direction:row;
+    display:flex;
 }
